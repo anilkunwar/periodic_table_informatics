@@ -17,7 +17,7 @@ elements = {
 }
 
 # Display the elements using buttons
-st.title("Periodic Table of Elements")
+st.title("Periodic Table of Elements (Work in Progress)")
 
 # Define the number of rows and columns for the layout
 num_rows = 10
